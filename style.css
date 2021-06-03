@@ -1,0 +1,59 @@
+* {
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+  }
+
+  #nav1{
+      display: inline-block;
+      padding-top:15px;
+      
+  }
+
+h3{
+    float:right;
+}
+
+
+
+  #nav2{
+      float:right;
+      padding-top: 15px;
+  }
+
+
+  #line{
+      background-image: url("img/hr-img.png");
+      background-repeat: repeat-x;
+min-height: 30px;
+  }
+
+  section{
+      margin-top:10px;
+      display: inline;
+  }
+
+  
+
+  body,header{
+
+    padding-left:30px;
+    padding-right:30px;
+
+  }
+
+  #print{
+      float:right;
+      margin-right: 30px;
+    padding-bottom: 20px;
+      
+  }
+
+  #printimg{
+      display: inline;
+  }
+
+  #header{
+      margin-left: 30px;
+
+  }
+  
