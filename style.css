@@ -25,6 +25,8 @@ h3{
       background-image: url("img/hr-img.png");
       background-repeat: repeat-x;
 min-height: 30px;
+/* min-width: 100px; */
+
   }
 
   section{
@@ -50,10 +52,146 @@ min-height: 30px;
 
   #printimg{
       display: inline;
+      color: gray;
+      font-weight: bold;
   }
 
   #header{
       margin-left: 30px;
 
+
+  }
+
+  #mainImg{
+    /* margin-left: 200px; */
+    width: 100%;
+    
+  }
+
+  .para{
+
+    margin-left: 30px;
+    color: gray;
+      font-weight: bold;
+  }
+
+
+  #colLeft{
+
+    float:left;
+    margin-left: 30px;
+    
+    padding-right: 10px;
+
+  }
+
+  #colRight{
+
+    padding-left: 50px;
+
+
+  }
+
+  #colRight p {
+
+    font-family: 'Indie Flower', cursive;
+font-family: 'Lobster', cursive;
+
+
+  }
+
+  #colLeft{
+
+    font-family: 'Indie Flower', cursive;
+font-family: 'Lobster', cursive;
+  }
+
+
+  #div2{
+    margin-top: 30px;
+    background-image:url('img/list-bg.png') ;
+    background-repeat: no-repeat;
+
+
+    margin-left: 300px;
+    padding-left: 300px;
   }
   
+  #lorem {
+
+    margin-top: 30px;
+  }
+
+  #div3{
+   margin-top: 30px;
+    background-image: url("img/hr-img.png");
+    background-repeat: repeat-x;
+min-height: 30px;
+
+
+  }
+
+  #div4 {
+    display: inline;
+
+
+  }
+
+  #div4 img{
+    float:left
+  }
+
+  button{
+    float: right;
+  }
+
+  footer{
+    margin-top: 30px;
+  }
+
+  footer img{
+    margin-left: 700px;
+
+  }
+
+  footer p{
+    text-align: center;
+    color: gray;
+  }
+
+
+  h3{
+    font-family: 'Lobster', cursive;
+  }
+
+  h3 p{
+
+    color: dimgrey;
+    
+  }
+
+  h4{
+
+    font-weight: bold;
+    font-size: 25px;
+  }
+
+  #posted{
+    font-size: 11px;
+    color: gray;
+    font-weight: bold;
+  }
+
+  #lastPara{
+
+    font-weight: bold;
+  }
+
+  button{
+    
+
+    background-color: brown;
+    width: 150px;
+    height: 50px;
+  }
+
