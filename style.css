@@ -1,59 +1,58 @@
 * {
-    font-family: Arial, sans-serif;
-    box-sizing: border-box;
-  }
+  font-family: Arial, sans-serif;
+  box-sizing: border-box;
+}
 
-  #nav1{
-      display: inline-block;
-      padding-top:15px;
-      
-  }
+#nav1{
+    display: inline-block;
+    padding-top:15px;
+    
+}
 
 h3{
-    float:right;
+  float:right;
 }
 
 
 
-  #nav2{
-      float:right;
-      padding-top: 15px;
-  }
+#nav2{
+    float:right;
+    padding-top: 15px;
+}
 
 
-  #line{
-      background-image: url("img/hr-img.png");
-      background-repeat: repeat-x;
+#line{
+    background-image: url("img/hr-img.png");
+    background-repeat: repeat-x;
 min-height: 30px;
-  }
+}
 
-  section{
-      margin-top:10px;
-      display: inline;
-  }
+section{
+    margin-top:10px;
+    display: inline;
+}
 
-  
 
-  body,header{
 
-    padding-left:30px;
-    padding-right:30px;
+body,header{
 
-  }
+  padding-left:30px;
+  padding-right:30px;
 
-  #print{
-      float:right;
-      margin-right: 30px;
-    padding-bottom: 20px;
-      
-  }
+}
 
-  #printimg{
-      display: inline;
-  }
+#print{
+    float:right;
+    margin-right: 30px;
+  padding-bottom: 20px;
+    
+}
 
-  #header{
-      margin-left: 30px;
+#printimg{
+    display: inline;
+}
 
-  }
-  
+#header{
+    margin-left: 30px;
+
+}
